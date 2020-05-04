@@ -32,7 +32,7 @@ Given a positive integer, output its complement number. The complement strategy 
 
 ## Code:
 
-`
+```
 class Solution {
 public:
     int findComplement(int num) {
@@ -56,4 +56,4 @@ public:
         return res;
     }
 };
-`
+```
